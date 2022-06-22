@@ -1,6 +1,6 @@
-package com.addressbook.za;
+package com.bridgelabz.address;
 
-public class AddressBookProgram {
+public class AddressBookMain {
 
     public static void main(String[] args) {
 
